@@ -1,6 +1,6 @@
 ﻿################################################################################
 # 
-# .tfignore for Dynamics 365 Finance and Operations apps - v10.0.10
+# .tfignore for Dynamics 365 Finance and Operations apps - v10.0.12
 #
 ################################################################################
 
@@ -10,7 +10,6 @@
 # \Model\Resources
 # \Model\WebContent
 # \Model\XppMetadata
-
 
 #Exclude specific files
 BPCheck.xml
@@ -56,6 +55,7 @@ DBSynchronization.xml
 \ContactPerson
 \CostAccounting
 \CostAccountingAX
+\CostAccountingService
 \CreditManagement
 \Currency
 \CustomFields
@@ -81,6 +81,7 @@ DBSynchronization.xml
 \ElectronicReportingForRetail
 \ElectronicReportingMapping
 \EnterpriseAssetManagementAppSuite
+\EnterpriseAssetManagementIot
 \EnterpriseAssetManagementMobile
 \ExpenseManagement
 \ExpenseMobile
@@ -116,6 +117,7 @@ DBSynchronization.xml
 \ProcessGuide
 \Project
 \ProjectMobile
+\ProjectOperations
 \PublicSector
 \PublicSectorFormAdaptor
 \RegulatoryServices
