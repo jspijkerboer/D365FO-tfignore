@@ -3,7 +3,7 @@
 ## **Getting started**
 Place the .tfignore file in the root of the metadata folder. (e.g. K:\AosService\PackagesLocalDirectory\)
 
-For every source controled model you can add the following entries. These folders only contain artifacts which are regenerated with each compile.
+For every source controlled model you can add the following entries. These folders only contain artifacts which are regenerated with each compile.
 ```
 \Model\Reports
 \Model\Resources
