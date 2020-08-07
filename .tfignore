@@ -79,7 +79,9 @@ DBSynchronization.xml
 \ElectronicReportingDotNetUtils
 \ElectronicReportingForAx
 \ElectronicReportingForRetail
+\ElectronicReportingInternal
 \ElectronicReportingMapping
+\EngineeringChangeManagement
 \EnterpriseAssetManagementAppSuite
 \EnterpriseAssetManagementIot
 \EnterpriseAssetManagementMobile
@@ -105,6 +107,7 @@ DBSynchronization.xml
 \MaterialHandlingEquipmentInterface
 \Measurement
 \MixedRealityCore
+\MixedRealityManufacturing
 \PaymentPredictor
 \Personnel
 \PersonnelCore
