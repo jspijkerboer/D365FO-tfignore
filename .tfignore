@@ -151,3 +151,15 @@ DBSynchronization.xml
 \InboundTransportationManagement
 \Kitting
 \ManufacturingExecutionInterface
+
+#10.0.15
+\ManufacturingExecution
+\ManufacturingExecutionBackoffice
+\MessageProcessor
+\MetadataExport
+\RebatesAndDeductions
+\ScaleUnitManagement
+\WarehouseExecutionWorkload
+\WarehouseExecutionWorkloadBackoffice
+\WarehousePlanning
+\WorkloadCommon
