@@ -1,5 +1,5 @@
 ﻿################################################################################
-# .tfignore for Dynamics 365 Finance and Operations apps - v10.0.14
+# .tfignore for Dynamics 365 Finance and Operations apps - v10.0.16
 ################################################################################
 
 #Exclude not source control related folders
@@ -163,3 +163,5 @@ DBSynchronization.xml
 \WarehouseExecutionWorkloadBackoffice
 \WarehousePlanning
 \WorkloadCommon
+
+#10.0.16 - No new packages introduced
