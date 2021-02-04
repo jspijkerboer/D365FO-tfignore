@@ -1,5 +1,5 @@
 ﻿################################################################################
-# .tfignore for Dynamics 365 Finance and Operations apps - v10.0.16
+# .tfignore for Dynamics 365 Finance and Operations apps - v10.0.17
 ################################################################################
 
 #Exclude not source control related folders
@@ -165,3 +165,9 @@ DBSynchronization.xml
 \WorkloadCommon
 
 #10.0.16 - No new packages introduced
+
+#10.0.17
+\EntAssetManufacturingExecution
+\EntAssetManufacturingExecutionBackoffice
+\EntAssetManufacturingExecutionInterface
+\RetailTeamsIntegration
