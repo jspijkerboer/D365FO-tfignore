@@ -4,6 +4,7 @@
 
 #Exclude not source control related folders
 # Example format for a source controled metatadata folder. Set up per model.
+# \Model\bin
 # \Model\Reports
 # \Model\Resources
 # \Model\WebContent
