@@ -1,5 +1,5 @@
 ﻿################################################################################
-# .tfignore for Dynamics 365 Finance and Operations apps - v10.0.22
+# .tfignore for Dynamics 365 Finance and Operations apps - v10.0.23
 ################################################################################
 
 #Exclude not source control related folders
@@ -175,5 +175,12 @@ DBSynchronization.xml
 \DataMaintenance
 \DataMaintenanceTypes
 
-#10.0.21-10.0.22
+#10.0.21
 \FinancialDimensionService
+
+#10.0.22
+\ManufacturingExecutionCommon
+\ManufacturingExecutionThirdParty
+\OperationalInsights
+
+#10.0.23 - No new packages introduced
