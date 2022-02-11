@@ -1,5 +1,5 @@
 ﻿################################################################################
-# .tfignore for Dynamics 365 Finance and Operations apps - v10.0.23
+# .tfignore for Dynamics 365 Finance and Operations apps - v10.0.25
 ################################################################################
 
 #Exclude not source control related folders
@@ -183,4 +183,11 @@ DBSynchronization.xml
 \ManufacturingExecutionThirdParty
 \OperationalInsights
 
-#10.0.23 - No new packages introduced
+#10.0.24
+\GlobalUnifiedPricing
+\ScaleUnitDatapipeline
+
+#10.0.25
+\HRPlatform
+\PersonnelBusinessProcess
+\SubscriptionBilling
