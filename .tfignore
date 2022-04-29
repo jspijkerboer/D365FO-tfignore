@@ -1,5 +1,5 @@
 ﻿################################################################################
-# .tfignore for Dynamics 365 Finance and Operations apps - v10.0.26
+# .tfignore for Dynamics 365 Finance and Operations apps - v10.0.27
 ################################################################################
 
 #Exclude not source control related folders
@@ -195,3 +195,6 @@ DBSynchronization.xml
 #10.0.26
 \BenefitsManagement
 \Leave
+
+#10.0.27
+\Recruitment
