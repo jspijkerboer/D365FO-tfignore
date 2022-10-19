@@ -1,8 +1,8 @@
 # D365FO-tfignore
 
-> **Note**
-> As I'm not working anymore on Dynamics for Finance and Operations, I will no longer be maintaining this list. Please feel free to continue it yourselves.\
-> All the best, Jeff
+> **Note**  
+> As I'm not working anymore on Dynamics for Finance and Operations, I will no longer be maintaining this list.  
+> Please feel free to continue it yourselves. 🙂
 
 ## **Getting started**
 Place the .tfignore file in the root of the metadata folder. (e.g. K:\AosService\PackagesLocalDirectory\)
