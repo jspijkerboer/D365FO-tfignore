@@ -1,5 +1,5 @@
 ﻿################################################################################
-# .tfignore for Dynamics 365 Finance and Operations apps - v10.0.29
+# .tfignore for Dynamics 365 Finance and Operations apps - v10.0.31
 ################################################################################
 
 #Exclude not source control related folders
@@ -78,7 +78,9 @@ DBSynchronization.xml
 \ElectronicReportingDotNetUtils
 \ElectronicReportingForAx
 \ElectronicReportingForRetail
+\ElectronicReportingInternal
 \ElectronicReportingMapping
+\EngineeringChangeManagement
 \EnterpriseAssetManagementAppSuite
 \EnterpriseAssetManagementIot
 \EnterpriseAssetManagementMobile
@@ -104,6 +106,7 @@ DBSynchronization.xml
 \MaterialHandlingEquipmentInterface
 \Measurement
 \MixedRealityCore
+\MixedRealityManufacturing
 \PaymentPredictor
 \Personnel
 \PersonnelCore
@@ -141,11 +144,6 @@ DBSynchronization.xml
 \UnitOfMeasure
 \WHSAppTaskValidator
 \WMSAdvancedMigration
-
-#10.0.13
-\ElectronicReportingInternal
-\EngineeringChangeManagement
-\MixedRealityManufacturing
 
 #10.0.14
 \AssetLeasing
@@ -198,3 +196,7 @@ DBSynchronization.xml
 
 #10.0.27
 \Recruitment
+
+#10.0.30
+\BusinessIntelligence
+\MonitoringAndTelemetry
